@@ -1,0 +1,1 @@
+tell application "Citrix Viewer" to activate
